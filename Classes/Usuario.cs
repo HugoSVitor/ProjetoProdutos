@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace ProjetoProdutos.Classes
 {
-    public class Produto
+    public class Usuario
     {
         private int Codigo { get; set; }
         private string Email { get; set; }
