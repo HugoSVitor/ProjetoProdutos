@@ -1,4 +1,5 @@
 ﻿using System;
+using ProjetoProdutos.Classes;
 
 namespace ProjetoProdutos
 {
